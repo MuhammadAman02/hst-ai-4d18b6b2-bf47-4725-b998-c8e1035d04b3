@@ -6,5 +6,9 @@
   {
     "role": "ai_message",
     "content": "I apologize, but I don't see any image attached to your message. Without seeing the specific image you're referring to, I can't accurately recreate what's in it. However, I'd be happy to help you create a web application based on your description. \n\nCould you please provide a detailed description of what you want to create? Or if you intended to upload an image, could you try uploading it again and describing what's in it? Once I have more information, I'll be able to help you build the application you're looking for."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n[ERROR] Deployment failed for 'hst-ai-4d18b6b2-bf47-4725-b998-c8e1035d04b3'. Exit code: 127\n\nPlease fix the issue."
   }
 ]
